@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding: 0;
+}
+form{
+    text-align: center;   
+}
+div{
+    justify-content: center;
+    flex-wrap: wrap;
+}
+input{
+    text-align: center;
+}
+.btn-primary{
+    text-align: center;
+    background-color: rgb(254, 148, 72);
+}
+h1.set{
+    margin-top: 11vh;
+    margin-bottom: 0;
+}
+h1{
+    text-align: center;
+}

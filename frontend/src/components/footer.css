@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div.container1{
+    text-align: center;
+    background-color: rgb(29, 79, 96);
+    color: aliceblue;
+}
+div.copyright{
+    font-style:oblique;
+    font-size:large;
+}
+div.credits{
+    font-style: oblique;
+    font-size: large;
+}
+a{
+
+    color: aliceblue;
+}
